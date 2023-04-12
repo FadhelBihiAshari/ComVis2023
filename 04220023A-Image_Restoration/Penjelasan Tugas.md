@@ -13,4 +13,4 @@ Langkah-langkah:
 
 6. Menyempurnakan kode: Setelah mencoba kode dan melihat hasilnya, Anda mungkin perlu melakukan penyesuaian, optimalisasi, atau penyempurnaan kode Anda untuk menghasilkan hasil restorasi yang lebih baik.
 
-7. Menyimpan gambar hasil restorasi (opsional): Jika hasil restorasi sudah sesuai dengan keinginan, Anda dapat menyimpan gambar hasil restorasi ke dalam file menggunakan fungsi "cv2.imwrite()" atau fungsi lain yang sesuai dengan library yang akan digunakan.
+7. Menyimpan gambar hasil restorasi (opsional): Jika hasil restorasi sudah sesuai dengan keinginan, Anda dapat menyimpan gambar hasil restorasi ke dalam file menggunakan fungsi "cv2.imwrite()" atau fungsi lain yang sesuai dengan library yang digunakan.
